@@ -19,3 +19,12 @@ c
 as
 c
 sac
+
+--------------------
+scsa
+asc
+sac
+as
+cs
+ac
+sa
